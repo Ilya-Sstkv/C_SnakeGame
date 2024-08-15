@@ -1,0 +1,4 @@
+﻿  Snake The Game.cpp
+D:\Software\Visual Studio\Projects\Snake The Game\Snake The Game.cpp(59,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Software\Visual Studio\Projects\Snake The Game\Snake The Game.cpp(403,43): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Snake The Game.vcxproj -> D:\Software\Visual Studio\Projects\Snake The Game\x64\Debug\Snake The Game.exe
